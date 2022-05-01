@@ -9,7 +9,7 @@ rule AgentTesla
         hash2 = "BA0B49885B63ABDF7B50B90A701BDC35"
         hash3 = "161D29B294DC41B48FBB06153A102FE3"
         hash4 = "6CCA77EC5EAA84731CF3F4F9F6BCA1C4"
-        hash5 = "123477EC5EAA84731CF3F4F9F6BCA1C4"
+        hash5 = "123457EC5EAA84731CF3F4F9F6BCA1C4"
     strings:
         $sample_1_string_1 = "finalCIT"
         $sample_1_string_2 = "DownloadData"
