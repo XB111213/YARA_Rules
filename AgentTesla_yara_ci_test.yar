@@ -15,7 +15,7 @@ rule AgentTesla
         $sample_1_string_2 = "DownloadData"
         $sample_1_string_3 = "repub"
         $sample_1_string_4 = "load"
-        //$sample_1_string_5 = "username"
+        $sample_1_string_5 = "username"
         //$sample_1_string_6 = "username"
 
         $sample_2_string_1 = "Silent Miner"
