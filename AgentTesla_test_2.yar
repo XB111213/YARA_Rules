@@ -6,25 +6,7 @@ rule AgentTesla
 {
     meta:
         hash1 = "1502a41b01323c4b5c74dda0db40a7e0"
-        hash2 = "3711ddebeb8c221c5cb200b6363316d4"
-        hash3 = "4320d0fbe360176198f764348cf506bb"
-        hash4 = "32aa8718b727175460d1b90a6b3e5acc"
-        hash5 = "cab3f3c0f8ba1b811469c44e81bc714d"
-        hash6 = "74d4050aca3ca75404e7435a06e9b1d9"
-        hash7 = "f1f9ff435b9c36fe509dde17a801e83b"
-        hash8 = "d81d919f7bd602d632ad036d084b65bf"
-        hash9 = "4e1404654f894865670b5db1a32cd95f"
-        hash10 = "03c7d9e6ef1b789c59bfbc01b7f3e161"
-        hash11 = "23a71e1e392197ef0764524510ea3363"
-        hash12 = "8df9142a30940f953fe7ffe91f65d5f3"
-        hash13 = "5ccef6c46f3adcdd85baea27f7ff1e22"
-        hash14 = "2e0317d2a91036f4d7573acdd4f5e1b2"
-        hash15 = "ef3444b8d07501e983b0f93df2eee6e7"
-        hash16 = "b0c1d4c008da7ec1093b4ad59922bf27"
-        hash17 = "84a36e30d47206fe4ee4855a5d14942d"
-        hash18 = "7bf4f98f6edef5efe9b9a10bfe6c10f5"
-        hash19 = "ec5044ee5f8bf864274fd36feef8b287"
-        hash20 = "971f79e491ff0440d0e8eba4e85775ea"
+
         
     strings:
         $sample_1_string_1 = "finalCIT"
