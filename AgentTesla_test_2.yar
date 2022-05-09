@@ -5,7 +5,7 @@ import"dotnet"
 rule AgentTesla
 {
     meta:
-        hash1 = "1502a41b01323c4b5c74dda0db40a7e0"
+        hash1 = "008cd26a66301f3d1eff70394c17a33a"
 
         
     strings:
