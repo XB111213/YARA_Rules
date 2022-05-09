@@ -5,7 +5,7 @@ import"dotnet"
 rule AgentTesla
 {
     meta:
-        hash = "1502a41b01323c4b5c74dda0db40a7e0, 3711ddebeb8c221c5cb200b6363316d4, 4320d0fbe360176198f764348cf506bb, 32aa8718b727175460d1b90a6b3e5acc, cab3f3c0f8ba1b811469c44e81bc714d"
+        hash = "1502a41b01323c4b5c74dda0db40a7e0"
 
     strings:
         $blob_string1 = "$042e361e-8146-471e-a822-671ed72e6526"
